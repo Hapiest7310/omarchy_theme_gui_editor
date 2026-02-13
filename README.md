@@ -10,6 +10,12 @@ A graphical theme editor for Omarchy Linux configurations. Built with Rust and e
 - Save modifications as new themes or overwrite existing ones
 - In-memory editing with preview before saving
 
+## Screenshots
+
+![Theme Selection](screenshot-1.png)
+
+![Color Editing](screenshot-2.png)
+
 ## Installation
 
 ```bash
