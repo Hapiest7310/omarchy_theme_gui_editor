@@ -1,0 +1,12 @@
+[package]
+name = "omarchy-theme-maker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.31"
+egui = "0.31"
+dirs = "5"
+regex = "1"
+toml = "0.8"
+serde = { version = "1", features = ["derive"] }

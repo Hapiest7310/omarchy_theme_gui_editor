@@ -1,0 +1,12 @@
+[general]
+themes_path = "~/.config/omarchy/themes"
+
+[extensions]
+".css" = { enabled = true, color = "#2646dc" }
+".toml" = { enabled = true, color = "#ff9f43" }
+".theme" = { enabled = true, color = "#5f27cd" }
+".conf" = { enabled = true, color = "#1dd1a1" }
+".lua" = { enabled = false, color = "#22a6b3" }
+".json" = { enabled = true, color = "#f4b426" }
+".yaml" = { enabled = true, color = "#4ecdcd" }
+".ini" = { enabled = false, color = "#ff9ff3" }
